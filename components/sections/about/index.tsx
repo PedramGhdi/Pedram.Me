@@ -57,7 +57,7 @@ export default function AboutSection() {
             transition={{ delay: 0.7, ease: "easeIn", duration: 0.5 }}
             className="text-muted-foreground text-justify"
           >
-            Hey, I’m Pedram Ghaderi, a Next.js & React developer who helps
+            Hey, I'm Pedram Ghaderi, a Next.js & React developer who helps
             businesses fix, optimize, scale, and build high-performance web
             applications. If your app is slow, buggy, struggling to scale, or
             missing key AI-driven features—I can help.
@@ -90,7 +90,7 @@ export default function AboutSection() {
             unnecessary delays—just solutions that work.
             <br />
             🔹 I don't just fix problems—I prevent them. Whether optimizing an
-            existing app or building something new, I ensure it’s scalable,
+            existing app or building something new, I ensure it's scalable,
             maintainable, and built for the long run.
             <br />
             <br />
