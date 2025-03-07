@@ -52,7 +52,7 @@ export default function CodeTyping() {
     }, Math.random() * 50 + 30);
 
     return () => clearTimeout(timeout);
-  }, [currentLine, lines]);
+  }, [currentLine, cursorPosition]);
 
   return (
     <motion.div
